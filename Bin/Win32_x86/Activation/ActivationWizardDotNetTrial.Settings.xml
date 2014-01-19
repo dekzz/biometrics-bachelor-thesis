@@ -1,0 +1,7 @@
+<config>
+  <options>
+    <property name="Product" value="" type="str" />
+    <property name="ProductFolders" value="D:\edu\foi\PDS\6. semestar\završni rad\MultimodalBiometricsSystem\Bin\Win32_x86;D:\edu\foi\PDS\6. semestar\završni rad\MultimodalBiometricsSystem\Bin\Win64_x64;" type="str" />
+    <property name="UseProxy" value="False" type="bool" />
+  </options>
+</config>
